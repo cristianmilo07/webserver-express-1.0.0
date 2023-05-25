@@ -1,0 +1,12 @@
+{
+  "name": "webserver-express-1.0.0-cristian",
+  "version": "1.0.0",
+  "description": "\"# webserver-express-1.0.0\" \r Temas puntuales de la sección\r Temas de la sección:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
