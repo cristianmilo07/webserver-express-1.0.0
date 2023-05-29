@@ -1,25 +1,7 @@
-"# webserver-express-1.0.0" 
-Temas puntuales de la sección
-Temas de la sección: 
+# WebServer en Node
 
-Aquí cubriremos varios temas como: 
+WebServer básico hecho en Express desplegando aplicaciones de React y Node o Handlebars
 
-Uso y configuración de Express
-
-Servir contenido estático
-
-Servir contenido dinámico
-
-Template engines
-
-Handebars
-
-Parciales
-
-Variables
-
-Despliegues en Heroku
-
-Hacer carpetas públicas en la web
-
-Desplegar aplicaciones de Angular y React
+## Nota:
+Esto es parte de mi curso de Node de cero a experto:
+[https://fernando-herrera.com/#/curso/node-cero-experto](https://fernando-herrera.com/#/curso/node-cero-experto)
